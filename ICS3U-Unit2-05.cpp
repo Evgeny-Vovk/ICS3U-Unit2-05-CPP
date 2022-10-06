@@ -2,7 +2,7 @@
 //
 // Created by : Evgeny Vovk
 // Created on : October 2022
-// ICS3U-Unit2-05.cpp File, learning input processing and output in C++.
+// ICS3U-Unit2-05.cpp File, learning global and local variables in C++.
 
 #include <iostream>
 
